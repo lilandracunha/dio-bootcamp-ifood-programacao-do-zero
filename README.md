@@ -15,8 +15,8 @@ Tenha a oportunidade de aplicar esses conhecimentos em projetos práticos, forta
 
 Maiores informações sobre o bootcamp podem ser visualizadas a seguir: 
 
-<a href = "https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero">
-  <img src = "">
+ <a href = "https://www.dio.me/bootcamp/potencia-tech-ifood-programacao-do-zero">
+  <img src = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/assets/title_potencia_tech_programacao_do_zero.png">
 </a>
 <br><br>
 
