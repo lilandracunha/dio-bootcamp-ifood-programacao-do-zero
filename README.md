@@ -24,11 +24,11 @@ Maiores informações sobre o bootcamp podem ser visualizadas a seguir:
 
 | Título do Projeto | Tipo | Arquivo |
 | :---------- | :--------- | :------------------------------------------ |
-| Classificador de Nível de Herói | Desafio de projeto | <a href = "">desafio_classificador_heroi.js</a> |
-| Calculadora de Partidas Rankeadas | Desafio de projeto | <a href = "">desafio_calculadora_ranked.js</a> |
-| Escrevendo as Classes de um Jogo | Desafio de projeto | <a href = "">desafio_classes_jogo.js</a> |
-| Manipulando Variáveis com JavaScript | Desafio de código | <a href = "">desafioCodigo1_manipulando_variaveis.js</a> |
-| Dominando Operadores com JavaScript | Desafio de código | <a href = "">desafioCodigo2_dominando_operadores.js</a> |
-| Explorando Condicionais com JavaScript | Desafio de código | <a href = "">desafioCodigo3_explorando_condicionais.js</a> |
-| Praticando Laços de Repetição com JavaScript | Desafio de código | <a href = "">desafioCodigo4_praticando_repeticao.js</a> |
-| Dominando Funções com JavaScript | Desafio de código | <a href = "">desafioCodigo5_dominando_funcoes.js</a> |
+| Manipulando Variáveis com JavaScript | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafioCodigo1_manipulando_variaveis.js">desafioCodigo1_manipulando_variaveis.js</a> |
+| Dominando Operadores com JavaScript | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafioCodigo2_dominando_operadores.js">desafioCodigo2_dominando_operadores.js</a> |
+| Explorando Condicionais com JavaScript | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafioCodigo3_explorando_condicionais.js">desafioCodigo3_explorando_condicionais.js</a> |
+| Praticando Laços de Repetição com JavaScript | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafioCodigo4_praticando_repeticao.js">desafioCodigo4_praticando_repeticao.js</a> |
+| Dominando Funções com JavaScript | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafioCodigo5_dominando_funcoes.js">desafioCodigo5_dominando_funcoes.js</a> |
+| Classificador de Nível de Herói | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafio_classificador_heroi.js">desafio_classificador_heroi.js</a> |
+| Calculadora de Partidas Rankeadas | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafio_calculadora_ranked.js">desafio_calculadora_ranked.js</a> |
+| Escrevendo as Classes de um Jogo | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood-programacao-do-zero/blob/main/javaScript/desafio_classes_jogo.js">desafio_classes_jogo.js</a> |
